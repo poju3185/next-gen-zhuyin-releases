@@ -38,10 +38,6 @@ macOS 的注音輸入法。每打完一個音節，app 裡的小模型會看游�
 1. 系統設定 → 鍵盤 → 文字輸入 → 輸入方式，把「Next-Gen 注音」移除。
 2. 刪掉 `~/Library/Input Methods/NextGenZhuyin.app`（在 Finder 按 ⌘⇧G，輸入這個路徑）。
 
-## 回報問題
-
-請到這個 repo 的 [Issues](https://github.com/poju3185/next-gen-zhuyin-releases/issues)。這裡只放安裝檔，原始碼不公開。
-
 ## 第三方授權與資料來源
 
 - 詞庫：[小麥注音（McBopomofo）](https://github.com/openvanilla/McBopomofo)的 data.txt，MIT License，Copyright (c) 2011-2026 Mengjuei Hsieh et al.
